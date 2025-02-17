@@ -4,7 +4,7 @@
 # MicroFi: A Peer-to-Peer Microloan Platform Using NFTs as Collateral
 ## VIDEO LINK: https://drive.google.com/drive/folders/1vFHmHK3CoaF0q-R254fJIxJzatwWdnxX?usp=sharing
 ## 🛠️ Overview
-Meta Monks is an innovative decentralized lending platform enabling peer-to-peer microloans by utilizing NFTs as collateral. The project is built to create a seamless and secure lending experience while leveraging blockchain technology. Borrowers can pledge NFTs as collateral, borrow Ethereum, and repay with interest to reclaim their NFTs, which are securely stored in an escrow to prevent fraud or sudden value fluctuations.
+MicroFi is an innovative decentralized lending platform enabling peer-to-peer microloans by utilizing NFTs as collateral. The project is built to create a seamless and secure lending experience while leveraging blockchain technology. Borrowers can pledge NFTs as collateral, borrow Ethereum, and repay with interest to reclaim their NFTs, which are securely stored in an escrow to prevent fraud or sudden value fluctuations.
 
 ---
 
