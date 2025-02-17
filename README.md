@@ -1,6 +1,8 @@
 
 ![Screenshot 2025-01-11 123514](https://github.com/user-attachments/assets/a1cea7b0-09bf-40ef-97f8-b50709f3c5b5)
 
+## Click here to view: https://micro-fi.vercel.app/
+
 # MicroFi: A Peer-to-Peer Microloan Platform Using NFTs as Collateral
 ## VIDEO LINK: https://drive.google.com/drive/folders/1vFHmHK3CoaF0q-R254fJIxJzatwWdnxX?usp=sharing
 ## 🛠️ Overview
